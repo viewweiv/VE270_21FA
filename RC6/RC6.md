@@ -1,5 +1,5 @@
 ---
-typora-root-url: https://github.com/viewweiv/VE270_21FA_RC/tree/main/RC6/pic6
+typora-root-url: ./pic6
 ---
 
 <div style="width:60%;height:150px;text-align:center;border-top:none solid red;border-left:none;border-bottom:none;margin-left:0%;margin-right:20%;display:inline-block">
