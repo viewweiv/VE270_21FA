@@ -31,6 +31,8 @@ typora-root-url: ./pic6
 
 ***this line is added from server!!!***
 
+***Aloha this line is added from server!!!***
+
 ## **Clock Signal**
 
 > **In sequential circuits design, it is common that the circuit change simultaneously to the rhythm of a global signal, clock signal, so that the circuit behaviors can be synchronized.**
